@@ -1,2 +1,2 @@
 console.log("Welcome to index js");
-console.log("Version 1");
+console.log("Version 2");
