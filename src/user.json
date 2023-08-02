@@ -7,6 +7,14 @@
     "name": "Sahith",
     "age": 18,
     "email": "sahithreddykomandla@gmail.com"
+},
+   { "name": "user2",
+    "age": 20,
+    "email": "user2@gmail.com"  
 }
-  
+
+
+
 ]
+
+  
